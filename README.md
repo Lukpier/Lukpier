@@ -24,8 +24,8 @@ No Activity tracked this Week
 <!--END_SECTION:waka-->
 
 ------------
-<p align="center">
-  <img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=Lukpier" /></p>
+<p>
+  <img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=Lukpier" />
   <img alt="Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lukpier&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats" />
 </p>
 ------------
@@ -37,6 +37,6 @@ No Activity tracked this Week
 </p>
 
 ------------
-<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Friday, 7 January, 22:07 CET<br /><a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Create your own here!</a></p>
+<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Friday, 7 January, 22:10 CET<br /><a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Create your own here!</a></p>
 <p align="center"><img alt="GitHub Workflow Status" src="https://img.shields.io/github/workflow/status/Lukpier/Lukpier/README%20build?style=for-the-badge"></p>
 
