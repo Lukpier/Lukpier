@@ -18,9 +18,7 @@
 <h3>📊 Weekly development breakdown</h3>
 
 <!--START_SECTION:waka-->
-```text
-No Activity tracked this Week
-```
+
 <!--END_SECTION:waka-->
 
 ------------
@@ -38,6 +36,6 @@ No Activity tracked this Week
 </p>
 
 ------------
-<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Friday, 7 January, 22:12 CET<br /><a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Create your own here!</a></p>
+<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Friday, 7 January, 22:19 CET<br /><a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Create your own here!</a></p>
 <p align="center"><img alt="GitHub Workflow Status" src="https://img.shields.io/github/workflow/status/Lukpier/Lukpier/README%20build?style=for-the-badge"></p>
 
