@@ -20,7 +20,9 @@ let DATA = {
 
 async function setWeatherInformation() {
   await fetch(
-    `https://community-open-weather-map.p.rapidapi.com/weather?q=milan&appid=${process.env.OPEN_WEATHER_MAP_KEY}&units=metric`
+    `https://community-open-weather-map.p.rapidapi.com/weather?q=milan&units=metric`, {
+      headers: {'x-rapidapi-key': `${process.env.OPEN_WEATHER_MAP_KEY}`}
+    }
   )
     .then(r => r.json())
     .then(r => {
