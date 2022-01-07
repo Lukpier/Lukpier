@@ -27,6 +27,6 @@
 </p>
 
 ------------
-<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Friday, 7 January, 21:10 CET<br /><a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Create your own here!</a></p>
-<p align="center">[![GitHub Actions Status](<https://img.shields.io/github/workflow/status/QuarkusIO/quarkus/QuarkusCI?logo=GitHub&style=for-the-badge>)](https://github.com/Lukpier/Lukpier/actions?query=workflow%3A%22README+build%22)</p>
+<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Friday, 7 January, 21:15 CET<br /><a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Create your own here!</a></p>
+<p align="center"<img src="https://github.com/Lukpier/Lukpier/actions?query=workflow%3A%22README+build%22"/></p>
 
