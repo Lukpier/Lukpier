@@ -35,6 +35,7 @@ jobs:
           BRANCH_NAME: main
   update-readme:
     name: Update this repo's README
+    needs: build
     runs-on: ubuntu-latest
     steps:
       - uses: athul/waka-readme@master
