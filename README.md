@@ -14,11 +14,17 @@
   <img alt="AWS Cloud Platform" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
 </p>
 
+------------
+
 <h3>📊 Weekly development breakdown</h3>
 
 <!--START_SECTION:waka-->
 
 <!--END_SECTION:waka-->
+
+------------
+ <p align="center"><img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=Lukpier&theme=blue-green" /></p>
+------------
 
 <h3>Benvenuti a <img src="https://cdn-icons-png.flaticon.com/512/197/197626.png" width="13"/> Milano!</h3>
 <p><img width="200" src="https:&#x2F;&#x2F;cdn2.dumpor.com&#x2F;view?q&#x3D;%3D%3DwM4YmZidTPkl2cfNmbfZSN3IjQGRUM20TZvZydRFmUvNXSmdDc4EjQQp0ShxWcjJ3QL52YXNGUaBFcLpGSw5Gcyl2X2hGbtQVQfBDM9g2bmQTL30jYjNmJBFUQBJ0ZNBDZmJUQ90GZlZiTxhHSxkDWBdmNudjcFtmSTVUZ9MGav91Yu9lJ2ATM9QXYj91Yu9lJ0Vmbu4GZjJmZuEmbm5SMtIjM2VWam5SbhJ3ZhR3culWP0h2Xj52X%2FcGcq5ibfRDM5kDO2UDN0kjN1ITO1kDMwMzXwcjMwEDNxIDMzEjN2gjN08lM5UjN4IDMzEzLwgDMxgHM4ATMw9SNzU2L1ETL1gDOy4SM1Q3L29Cdl5mLuR2YiZmLh5mZuETLyIjdllmZu0WYydWY0Nnbp9yL6MHc0RHa" /> <img width="200" src="https:&#x2F;&#x2F;cdn1.dumpor.com&#x2F;view?q&#x3D;%3DMDOmZmY30DZpN3Xj52XmgjMBNjREFjN9U2bmE0Q3x2QOZETTdVR3lGONlXSx4kTwgWbuRGN6FHTZBVc00kcrh1bYxUdPlUOUF0XwATPo9mJ00yN9I2YjZSQBFUQCdWTwQmZCFUPtRWZmk0YB1kT5gVQnxGaEBjcQllUfBXPjh2bfNmbfZSMwETP0F2YfNmbfZCdl5mLuR2YiZmLh5mZuITLyIjdllmZu0WYydWY0Nnbp1Ddo91Yu91PnBnau42XyMzMwIDN1gDO5QTMxgDNxUjN281NzgTOzgTMzcjMyYTMyUzXzcDM4ITM1kzLwgDMxgHM4ATMz9SNzU2L1ETL1gDOy4SM1Q3L29Cdl5mLuR2YiZmLh5mZuITLyIjdllmZu0WYydWY0Nnbp9yL6MHc0RHa" /> <img width="200" src="https:&#x2F;&#x2F;cdn1.dumpor.com&#x2F;view?q&#x3D;%3DMDOmZmY30DZpN3Xj52XmETMDNDMFFjN9U2bmc2Q0BzUwpENygzRu5kezVGTxsGVxwmetZ3UPVzZvJnd6ZXLYZ2aLdUWYxEOUF0XwATPo9mJ00yN9I2YjZSQBFUQCdWTwQmZCFUPtRWZm02ZthXLfhVQjh2SvlFZxEUcGFTPjh2bfNmbfZCOwETP0F2YfNmbfZCdl5mLuR2YiZmLh5mZuETLyIjdllmZu0WYydWY0Nnbp1Ddo91Yu91PnBnau42XzATN3IjN1MjN1ITN1UjM2gjM18FN0cDN5cTM0UzN1YTMzEzX0MDO4EDOzkzLwgDMxgHM4ATMw9SNzU2L1ETL1gDOy4SM1Q3L29Cdl5mLuR2YiZmLh5mZuETLyIjdllmZu0WYydWY0Nnbp9yL6MHc0RHa" /></p>
@@ -28,6 +34,6 @@
 </p>
 
 ------------
-<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Friday, 7 January, 21:34 CET<br /><a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Create your own here!</a></p>
+<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Friday, 7 January, 21:41 CET<br /><a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Create your own here!</a></p>
 <p align="center"><img alt="GitHub Workflow Status" src="https://img.shields.io/github/workflow/status/Lukpier/Lukpier/README%20build?style=for-the-badge"></p>
 
