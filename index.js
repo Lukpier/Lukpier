@@ -42,6 +42,13 @@ async function setWeatherInformation() {
     });
 }
 
+
+async function unCacheStats() {
+  const now = Date.now()
+  DATA.random1 = now
+  DATA.random2 = now
+}
+
 async function setInstagramPosts() {
   const instagramImages = await puppeteerService.getLatestInstagramPostsFromAccount('visitmilanofficial', 3);
   DATA.img1 = instagramImages[0];
@@ -67,6 +74,11 @@ async function action() {
    * Get pictures
    */
   await setInstagramPosts();
+
+  /**
+   * force reload stats
+   */
+  await unCacheStats();
 
   /**
    * Generate README
