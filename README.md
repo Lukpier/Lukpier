@@ -19,18 +19,12 @@
 <h3>📊 Weekly development breakdown</h3>
 
 <!--START_SECTION:waka-->
-```text
-Kotlin   10 hrs 17 mins  █████████▒░░░░░░░░░░░░░░░   37.31 % 
-Java     6 hrs 30 mins   ██████░░░░░░░░░░░░░░░░░░░   23.58 % 
-Go       3 hrs 21 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.14 % 
-JSON     2 hrs 10 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.89 % 
-Scala    1 hr 32 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.59 % 
-```
+
 <!--END_SECTION:waka-->
 
 ------------
-<p align="center"><img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=Lukpier&count_private=true?random=1643718874140" /></p>
-<p align="center"><img alt="Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lukpier&theme=&layout=compact&random=1643718874140" /></p>
+<p align="center"><img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=Lukpier&count_private=true?random=1643729211668" /></p>
+<p align="center"><img alt="Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lukpier&theme=&layout=compact&random=1643729211668" /></p>
 
 ------------
 <h3>Benvenuti a <img src="https://cdn-icons-png.flaticon.com/512/197/197626.png" width="13"/> Milano!</h3>
@@ -41,6 +35,6 @@ Scala    1 hr 32 mins    █▒░░░░░░░░░░░░░░░░�
 </p>
 
 ------------
-<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Tuesday, 1 February, 13:34 CET<br /><a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Create your own here!</a></p>
+<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Tuesday, 1 February, 16:26 CET<br /><a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Create your own here!</a></p>
 <p align="center"><img alt="GitHub Workflow Status" src="https://img.shields.io/github/workflow/status/Lukpier/Lukpier/README%20build?style=for-the-badge"></p>
 
