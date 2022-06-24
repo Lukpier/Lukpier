@@ -20,25 +20,21 @@
 
 <!--START_SECTION:waka-->
 
-```text
-No activity tracked
-```
-
 <!--END_SECTION:waka-->
 
 ------------
-<p align="center"><img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=Lukpier&count_private=true?random=1656036898416" /></p>
-<p align="center"><img alt="Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lukpier&theme=&layout=compact&random=1656036898416" /></p>
+<p align="center"><img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=Lukpier&count_private=true?random=1656043293882" /></p>
+<p align="center"><img alt="Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lukpier&theme=&layout=compact&random=1656043293882" /></p>
 
 ------------
 <h3>Benvenuti a <img src="https://cdn-icons-png.flaticon.com/512/197/197626.png" width="13"/> Milano!</h3>
 <p><img width="200" src="https:&#x2F;&#x2F;cdn2.dumpor.com&#x2F;view?q&#x3D;%3DMSPjJTWKVDOCJ1RTZWeWhWMPV3Y6J2a3ZzSBp1VaZDc41mS3JXSyN1bHZHS4A3U2gzcDlDVDR3SLpVY6NnT5ElVrt2Q40GRxl1dtpWOwUGS4YDaLRUZRFmdiVzKOVTdQV2b3gkYHlXYYhUVzckWZxHfRR0TiJGRmd1NJJHUkxHfTB1QndkSvVEO5wEOldDeWtyV2gGdopmWrUkZyZ3ZwBVbyVnW4l2KshGWHpHMyIFbUZmNBhjT2YFchhkTxJ3ZwcHZuB3cFRnexxmdklURFlTO8xnRyone3UTW6NlczkWdG50TrNEW4QXZLNUR8xHcIF2aRJDS4E2UxgzSxZ3UFNnaC50STlnV3E3NxMWS0N0TWFzaEBHb2B3K0QWQkB3ZYpXYr12YwFVO2pXaxY3UIxHf1YWWwJDf8lzTUNTZzpGVadkbHZlcLNVZq9WRnlWYzJnd1g1Z38Gb8xHTIBVN2R0U3dlTwt0RWx2b4wHfw9EWZJ2dzsEewImbrVjS50mWEZXapVnVZlXc2YVMERFTXdDVaNzaPtSMUNkWoFjVqtWS1oWN6llU1NVQsZ1dLdnU5RjaDBXbwEkWwF2TIxkdxIVStZ1UqBXZMR1UwYjWTlzZXBjSPJzQ4YmaLhHZZN1MTF2YCpmbZ5UdOhGelBTPx9SbhJ3ZhR3culWL5JWLkVGdz9Gav02bj5SarV3YpBnLx4GZj9yL6MHc0RHa" /> <img width="200" src="https:&#x2F;&#x2F;cdn3.dumpor.com&#x2F;view?q&#x3D;%3DMyb5wGcJtCVx40TzsyMDVDeUt0YCBXRytUdhJ1bZ10VXBDeo1maQVnSTtierUUYwoHUK1ERDxmTsVHe4MUZrkzYWZ3ZhNkb24EZjpHZWVlWPRmbvZGU2RFf8JGUvFEVxFWRSJXc5IjTxV2KXxHfsVWZq5WUCV0M2hUVTNHTRRnNtx0dxpkUotkRqVFRN12QndDNzRXUQdmV4tkW2knTuxHfvlVbadnaoRUand2VNVUR0M2SlhGR6FHcodUWwRUa1FUQP9GShlFdjZjbHxHf4hkZytmbBJTeTxWc6VGcVBHNzIWRyFlNVdTc4BnTQxHfmxHfUhVNp9Gb34kcYhTQmhnVp92Q1k3RoJEZ2ljdCFjUIJ2MxoEO6tkVLNVd2kFcCpke5Q1di5UULRUdONmaiZHWPtiSvticyIGf8hURvVWUmlEVNlla69UdB1UO2NFWZFGMYpUOzJGbnljS44mQUFzaDRTVidlN1gFZURFTPdzUkBVVQRDZGpFVwZVVqtWW1wmW6llU1NVQsZ1dLdnU5RjaDBXbwEkWwF2TIxkdxIVStZ1UqBXZMR1UwYjWTh3ZXBjSPJzQ4YmaLhHZZN1MTF2YCpmbZ5UdOhGelBTPx9SbhJ3ZhR3culWL5JWLkVGdz9Gav02bj5SarV3YpBnLx4GZj9yL6MHc0RHa" /> <img width="200" src="https:&#x2F;&#x2F;cdn3.dumpor.com&#x2F;view?q&#x3D;%3DMyb5wGcJtCVx40TzsyMDVDeUt0YCdlUyd1YiJ1bZ10VXBDeo1mRmBXUyxEa5VWaXJDSwxHfUhGe2cXOx0kVTNUZMp3MxMkYTFHRxdXRWFWMZdEMqJWUw5WQsNmazR2U2IWRSJXc5IjTxV2KXxHfsVWZq5WUCV0M2hUVTNHTRRnNtx0dxpkUotkRqVFRN12QIFnNtRXSmdmV4FGSZ9EZzQTWiBHWvR1Zyl2ZndVTFVENjtUZo5mexBHaHlFcElWdBF0TvhUYZR3Y242R8xHeIZmcr5WQyk3UsFnelBHWwRzMiVkcRZTV3EHew5EU8xnZ8xHVYVTavx2NOJHW4EkZ4ZVavNUN5dEaCRmd5YnQxIFSiNTMKhjeLZ1STVnNZBnQKpXOUVlYOd1SEVXRjRUY2hVd8xXZVZncyIGf8hURvVWUmlEVNlla69kdNNHOvN1MZFWWzsEewI2arpEc5cWMUBjbDlUVjFXc2QGaURVTHJHVhBVVQVjTGpVV1Y1Vq9WS3omW6llU1NVQsZ1dLdnU5RjaDBXbwEkWwF2TIxkdxIVStZ1UqBXZMR1UwYjWTlzZXBjSPJzQ4YmaLhHZZN1MTF2YCpmbZ5UdOhGelBTPx9SbhJ3ZhR3culWL5JWLkVGdz9Gav02bj5SarV3YpBnLx4GZj9yL6MHc0RHa" /></p>
-<p>Above are the last 3 pictures posted by <a href="https://www.instagram.com/visitmilanofficial/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1024px-Instagram_logo_2016.svg.png" width="20"/> @visitmilanofficial!</a><br/>Currently, the weather is: <b> 22°C, <i>clear sky</i></b></br>Today, the sun rises at <b>05:35</b> and sets at <b>21:15</b>.</p>
+<p>Above are the last 3 pictures posted by <a href="https://www.instagram.com/visitmilanofficial/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1024px-Instagram_logo_2016.svg.png" width="20"/> @visitmilanofficial!</a><br/>Currently, the weather is: <b> 21°C, <i>clear sky</i></b></br>Today, the sun rises at <b>05:35</b> and sets at <b>21:15</b>.</p>
 <h3>Where to find me</h3>
 <p><a href="https://github.com/Lukpier" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/luk_pierri" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/luca-pierri-581871151/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://medium.com/@lukepier95" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
 </p>
 
 ------------
-<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Friday, 24 June, 04:14 CEST<br /><a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Create your own here!</a></p>
+<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Friday, 24 June, 06:01 CEST<br /><a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Create your own here!</a></p>
 <p align="center"><img alt="GitHub Workflow Status" src="https://img.shields.io/github/workflow/status/Lukpier/Lukpier/README%20build?style=for-the-badge"></p>
 
